@@ -1,15 +1,11 @@
 <div align="center">
     <p>
-      <img src="image/astronaut.jpeg" alt="hello world text"/>
+      <img src="" alt="hello world text"/>
     </p>
 </div>
 
-<div align="center">
-  <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
-  <img alt="Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopestech&layout=compact&theme=transparent"/>
-</div>
 
-# Top Languages!
+# 💻Programming Languages!
 
 <div align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=%23777BB4&labelColor=black"/>
@@ -18,3 +14,10 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=%234479A1&labelColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=PYTHON&logoColor=%233776AB&labelColor=black"/>
 </div> 
+
+# 💻Github Stats!
+
+<div align="center">
+  <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
+  <img alt="Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopestech&layout=compact&theme=transparent"/>
+</div>

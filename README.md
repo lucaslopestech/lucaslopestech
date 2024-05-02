@@ -1,4 +1,8 @@
-### Hey there! 👋
+<div align="center">
+    <p>
+      <img src="https://shorturl.at/quzRX" alt="hello world text"/>
+    </p>
+</div>
 
 <div align="center">
   <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>

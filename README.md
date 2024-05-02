@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-      <img src="https://shorturl.at/quzRX" alt="hello world text"/>
+      <img src="image/astronaut.jpeg" alt="hello world text"/>
     </p>
 </div>
 

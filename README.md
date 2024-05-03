@@ -11,41 +11,78 @@
 
 <div align="center">
     <h2>🌐 Connect with Me</h2>
-    <p>To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
      <br>
-    <a href="https://api.whatsapp.com/send?phone=61994081259">
-        <img src="https://img.shields.io/badge/WHATSAPP-%2325D366?style=for-the-badge&logo=WHATSAPP&logoColor=white&labelColor=%2325D366" alt="Whatsapp"/>
-    </a>
     <a href="https://www.linkedin.com/in/lucaslopestech/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
     </a>
 </div>
 
-<div align="center">
-  <h2>💻 Programming Languages</h2>
-    <a>Being a versatile developer, I've honed my skills across a wide spectrum of programming languages, with each serving as a crucial instrument in my repertoire. Below are the languages I adeptly wield to transform intricate challenges into refined, streamlined solutions.</a>
-    <br><br>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=%23777BB4"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black""/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%234479A1"/>
-  <img alt="Python" src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=%233776AB"/>
-</div> 
-
-
-<div align="center">
-    <h2>🔧 Frameworks</h2>
-    <p>Frameworks serve as the foundation of my development endeavors, furnishing the essential structure and resources vital for crafting scalable, high-performing applications. My proficiency encompasses a diverse array of frameworks, meticulously selected for their capacity to expedite development timelines while ensuring the delivery of resilient features and functionalities.</p> 
-    <br>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
+
+  
+<div align="center">
+    <h2>💻 Skills</h2>
+    <br>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+    </div>
+</div>
+
 
 <div align="center">
   <h2>💻 Github Stats</h2>
-    <p>This segment provides a glimpse into my daily routine, spotlighting the repositories that currently occupy my attention. Every commit serves as a testament to the advancements or enhancements made to ongoing initiatives, underscoring my dedication to perpetual refinement and cooperative evolution. Explore the commit messages for valuable insights into my recent endeavors!</p>
     <br>
   <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
   <img alt="Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopestech&layout=compact&theme=transparent"/>

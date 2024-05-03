@@ -22,21 +22,6 @@
 </div>
 
 <div align="center">
-    <h2>🔧 Frameworks</h2>
-    <p>Frameworks serve as the foundation of my development endeavors, furnishing the essential structure and resources vital for crafting scalable, high-performing applications. My proficiency encompasses a diverse array of frameworks, meticulously selected for their capacity to expedite development timelines while ensuring the delivery of resilient features and functionalities.</p> 
-    <br>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</div>
-
-<div align="center">
   <h2>💻 Programming Languages</h2>
     <a>Being a versatile developer, I've honed my skills across a wide spectrum of programming languages, with each serving as a crucial instrument in my repertoire. Below are the languages I adeptly wield to transform intricate challenges into refined, streamlined solutions.</a>
     <br><br>
@@ -45,6 +30,18 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%234479A1"/>
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=%233776AB"/>
 </div> 
+
+
+<div align="center">
+    <h2>🔧 Frameworks</h2>
+    <p>Frameworks serve as the foundation of my development endeavors, furnishing the essential structure and resources vital for crafting scalable, high-performing applications. My proficiency encompasses a diverse array of frameworks, meticulously selected for their capacity to expedite development timelines while ensuring the delivery of resilient features and functionalities.</p> 
+    <br>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</div>
 
 <div align="center">
   <h2>💻 Github Stats</h2>

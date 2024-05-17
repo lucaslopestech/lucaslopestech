@@ -18,9 +18,9 @@
 </div>
   
 <div align="left">
-    <h2>Technical Abilities</h2>
+    <h2> Technical Abilities</h2>
     <br>
-    <div align="left">
+    <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <h2>💻 Github Stats</h2>
+  <h2> Github Stats</h2>
     <br>
   <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
   <img alt="Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopestech&layout=compact&theme=transparent"/>

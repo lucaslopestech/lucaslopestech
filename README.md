@@ -20,6 +20,6 @@
 <div align="center">
   <h2> Github Stats</h2>
     <br>
-  <img alt="My GitHub stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
+  <img alt="My GitHub stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=lucaslopestech&show_icons=true&theme=transparent"/>
   <img alt="Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopestech&layout=compact&theme=transparent"/>
 </div>

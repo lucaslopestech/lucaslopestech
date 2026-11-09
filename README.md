@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image Placeholder -->
-<img src="./image/astronaut.png" width="40%" alt="Profile Banner" />
+<img src="./image/astronaut.png" width="50%" alt="Profile Banner" />
 
 # Hi 👋, I'm Lucas
 
@@ -28,7 +28,7 @@
     <td width="40%" align="center">
 
 <!-- About Me Image Placeholder -->
-<img src="./image/meteorite.png" width="40%" alt="About Me Graphic" />
+<img src="./image/meteorite.png" width="60%" alt="About Me Graphic" />
 
     
   </tr>

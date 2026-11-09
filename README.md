@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner Image Placeholder -->
-<img src="./blackhole.jpg" width="100%" alt="Profile Banner" />
+<img src="./image/astronaut.png" width="40%" alt="Profile Banner" />
 
 # Hi 👋, I'm Lucas
 
-### Backend Developer & Systems Analysis and Development Graduate
+### Backend Developer 
 
 *Building reliable backend systems with clean architecture and scalable solutions.*
 
@@ -28,9 +28,9 @@
     <td width="40%" align="center">
 
 <!-- About Me Image Placeholder -->
-<img src="YOUR_ABOUT_ME_IMAGE_URL_HERE" width="100%" alt="About Me Graphic" />
+<img src="./image/meteorite.png" width="40%" alt="About Me Graphic" />
 
-    </td>
+    
   </tr>
 </table>
 

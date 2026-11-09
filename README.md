@@ -1,10 +1,63 @@
-<div align="left">
-    <h1>Hey, i'm Lucas</h1>
+<div align="center">
+
+<!-- Banner Image Placeholder -->
+<img src="./blackhole.jpg" width="100%" alt="Profile Banner" />
+
+# Hi 👋, I'm Lucas
+
+### Backend Developer & Systems Analysis and Development Graduate
+
+*Building reliable backend systems with clean architecture and scalable solutions.*
+
 </div>
 
-<div align="Left">
-    <h3>About Me</h3>
-    <p>I'm a Software Developer. I've been learning programming for several years in college as a student of Analysis and Development of Systems. I decided to pursue this field because of my enduring curiosity about technology. I see programming as a means to connect with the essence of every technological advancement. I love understanding how things work and, more importantly, developing solutions through software development. I enjoy reading and watching Sci-Fi content, exploring new technologies, and testing them.</p>
+---
+
+### 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%">
+
+* 🌱 Lucas, here — a Systems Analysis and Development graduate based in Brasília, Brazil, focused on backend and full-stack development.
+* 💻 I enjoy building reliable, production-ready applications with JavaScript, React, and Python, while continuously improving my understanding of real-world backend systems.
+* 📚 I am actively expanding my language skills by studying English technical terminology and practicing basic Dutch.
+* 🎯 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+    </td>
+    <td width="40%" align="center">
+
+<!-- About Me Image Placeholder -->
+<img src="YOUR_ABOUT_ME_IMAGE_URL_HERE" width="100%" alt="About Me Graphic" />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,python,linux,git,github,docker,vscode" />
+
 </div>
 
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaslopestech&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ *Feel free to check out my repositories or reach out if you'd like to connect!*
+
+</div>
